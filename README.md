@@ -1,7 +1,7 @@
 # Hassan El Hajj
 
 ## 💡 About Me
-I am an **Applied ML Security Engineer** and **Prospective PhD Researcher** with 16+ years of experience delivering enterprise IT, cybersecurity, and broadcast infrastructure.  
+I am a **Security Engineer** and **Prospective PhD Researcher** with 16+ years of experience delivering enterprise IT, cybersecurity, and broadcast infrastructure.  
 My career spans **AI security engineering, adaptive deception, privacy-preserving machine learning, and LLM guardrails**, as well as **datacenter, networking, and broadcast media systems**.  
 
 In 2015, I founded the **Rabab Cancer Foundation**, leading its digital transformation, volunteer scaling, and technical backbone—combining technology with impact-driven social innovation.  
@@ -71,7 +71,8 @@ In 2015, I founded the **Rabab Cancer Foundation**, leading its digital transfor
 ---
 
 ## 📚 Education
-- **MSc Project Management** (focus: nonprofit operations & strategy)  
+- **MSc Project Management** (focus: nonprofit operations & strategy)
+- **B.Sc Computer Engineering** 
 - Continuous professional development in AI security, ITIL, ISO 27001  
 
 ---
@@ -85,9 +86,9 @@ In 2015, I founded the **Rabab Cancer Foundation**, leading its digital transfor
 ---
 
 ## 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hassan-elhajj/)  
 - 📧 hassan.elhajj@hotmail.com  
-- 🐙 [GitHub](https://github.com/yourusername)  
+ 
 
 ---
 ✨ *Blending enterprise engineering, AI security, and social impact into resilient, future-ready systems.*  
